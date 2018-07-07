@@ -4,4 +4,4 @@
 - Use it with apache server and host it local or public .
 - Easy and simple to use .
 # Usage
-1 Just download it and host . 
+- Just download it and host . 
